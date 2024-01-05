@@ -19,6 +19,8 @@ Assuming that you are responsible for Corona vaccine distribution and treatment 
     - (1) the ID of the vaccine
     - (2) how many doses of this vaccine should be given
     - (3) critical temperature.
+### ER Digram:
 
+![ERD_Vaccine](/ERD_vaccine.png)
 
 
