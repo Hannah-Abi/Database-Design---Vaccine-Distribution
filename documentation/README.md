@@ -1,3 +1,3 @@
-Relational Data Model (ERD)
-Relational Schema
-SQL Script for populating the database
+1. Relational Data Model (ERD)
+2. Relational Schema
+
